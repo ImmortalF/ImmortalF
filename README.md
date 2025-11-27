@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Full-Stack Developer from Ukraine<br><br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Full-Stack Developer from Ukraine<br><br>
 
 ###
 
